@@ -1,6 +1,6 @@
 ********************************************************************************
-	UDK2UE4Tools: Help transfer actors, code and matinee from UDK to UE4
-    Copyright (C) 2015  Roman Simenok, OlexandrI
+	ColorLabPicker: Pick color from image, generate channel-images, generate histogram per channels
+    Copyright (C) 2015  OlexandrI
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
